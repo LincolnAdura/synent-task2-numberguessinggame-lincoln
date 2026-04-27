@@ -23,7 +23,7 @@ python number_guessing_game.py
 ```
 
 ## Demo Video
-[Click here to watch the demo](#)
+[Click here to watch the demo](https://www.linkedin.com/posts/lincoln-adura-9b41582a2_internship-python-programming-ugcPost-7454276833727901697-nC3k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEj-PJgB4bj8FKDCrrZe1jolwLJuoSNjIw4)
 
 ## Tools Used
 - Python 3
